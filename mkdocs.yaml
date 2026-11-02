@@ -1,0 +1,50 @@
+site_name: NetIris
+site_url: https://boaz205-lab.github.io/netiris/
+site_description: Cybersecurity awareness and threat intelligence platform focused on the African Contient
+
+repo_name: boaz205-lab/netiris
+repo_url: https://github.com/boaz205-lab/netiris
+
+theme:
+  name: material
+  palette:
+  # light
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle: 
+        icon: material/brightness-7
+        name: Switch to dark mode
+  #dark
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    
+  font:
+    text: Manrope
+  features:
+    navigation.instant
+    navigation.tracking
+    navigation.top
+    search.suggest
+    search.highlight
+
+extra_css:
+  - assets/css/main.css
+
+nav:
+  - Home: index.md
+  - Wiki: wiki/index.md
+  - Dashboard: dashboard.md
+  - About: about.md
+  - Privacy: privacy.md
+    
+extra:
+  show_beta_banner: true
+  contact_email: wboaz.pc@gmail.com
+  default_region: Africa
+  min_count_to_show: 5
+    
