@@ -8,36 +8,41 @@ repo_url: https://github.com/boaz205-lab/netiris
 theme:
   name: material
   palette:
-  # light
+    # light
     - scheme: default
       primary: custom
       accent: custom
-      toggle: 
+      toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-  #dark
+    # dark
     - scheme: default
       primary: custom
       accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-    
+
   font:
     text: Manrope
   features:
-    navigation.instant
-    navigation.tracking
-    navigation.top
-    search.suggest
-    search.highlight
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+  announcement: >-
+    <strong>Beta:</strong> This is a student-led, non-commercial cybersecurity awareness project. Data and features are still in development.
 
 extra_css:
   - assets/css/main.css
 
 nav:
   - Home: index.md
-  - Wiki: wiki/index.md
+  - Wiki: 
+    - index.md
+    - wiki/phishing.md
   - Dashboard: dashboard.md
   - About: about.md
   - Privacy: privacy.md
