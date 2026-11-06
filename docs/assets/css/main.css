@@ -33,8 +33,9 @@ a{
     border-bottom: 1px solid transparent;
     transition: border-color 0.2s ease;
 }
-a:hover{
+a:hover, a:focus{
     border-bottom-color: var(--accent-color);
+    color: var(--pupil-color);
 }
 [data-theme="dark"] a{
     color: var(--accent-color);
