@@ -49,4 +49,4 @@ Cybersecurity information is often for large corporations or advanced profession
 
 _Project status:**Public Beta**_
 
-_Netiris is in its **Release 1(Public Beta)** phase. The site is actively under development._
+_Netiris is in its **Release 1(Public Beta)** phase. The site is actively under development.
