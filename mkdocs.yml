@@ -31,6 +31,9 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+  
+  logo: assets/img/netiris-mark-light.svg
+  favicon: assets/img/favicon.svg
 
   announcement: >-
     <strong>Beta:</strong> This is a student-led, non-commercial cybersecurity awareness project. Data and features are still in development.
