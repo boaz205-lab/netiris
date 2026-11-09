@@ -46,6 +46,8 @@ nav:
   - Wiki: 
     - index.md
     - wiki/phishing.md
+    - data_sources.md
+    - about.md
   - Dashboard: dashboard.md
   - About: about.md
   - Privacy: privacy.md
