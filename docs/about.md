@@ -4,7 +4,7 @@ NetIris is a student-led, non-commercial cybersecurity awareness project focused
 
 Our goal is to bridge the gap between complex cyber threat data and the people who need it most: students, small business owners, teachers, and everyday mobile money users. We provide plain-language guides and aggregated threat data to help you understand digital risks and protect yourself.
 
-**Non-Commercial Project"**
+**Non-Commercial Project**
 NetIris is strictly an educational and portfolio project. We do not sell services, show advertisements, offer paid consultations, or accept sponsorships. If you see "NetIris" associated with a paid service or commercial consultancy, it is not affiliated with this website.
 
 NetIris is part of an ongoing effort to build practical experience in data engineering, web development, and cybersecurity research.
