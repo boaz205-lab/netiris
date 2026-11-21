@@ -1,8 +1,5 @@
 ---
 title: NetIris - 
-hide: 
-    - navigation
-    - toc
 ---
 
 ## Providing intel on cybersecurity risks across African continent and third world countries
