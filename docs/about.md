@@ -13,7 +13,7 @@ NetIris is part of an ongoing effort to build practical experience in data engin
 
 We welcome feedback, corrections, and suggestions for new wiki articles.
 
-• Report an error or suggest an article: Open an issue on our GitHub Repository.
-• General feedback: Email us at [email](mailto:wboaz.pc@gmail.com)
+- Report an error or suggest an article: Open an issue on our GitHub Repository.
+- General feedback: [Email us](mailto:boazobondo25@proton.me)
 
 **Note:** We are a small, independent project. Please allow a few days for a response.
